@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I am currently learning Java! 
+My goal is to become a backend developer.
 <!--
 **yinghua40903/yinghua40903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
